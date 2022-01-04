@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ishika Raj
-- 👀 I’m interested in cpp.we development,programmig,Html, CSS.
+- 👀 I’m interested in , c, c++, web-development, programmig, Html, CSS .
 - 🌱 I’m currently learning Data Structure, Java.
 - 💞️ I’m looking to collaborate on Open Source.
 - 📫 How to reach me rajputishika318@gmail.com
